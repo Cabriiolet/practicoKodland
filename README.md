@@ -15,4 +15,4 @@ Este es un juego simple de nave espacial creado con Python y PyGame. El objetivo
 ## Ejecución
 Ejecuta el siguiente comando para iniciar el juego:
 ```bash
-python main.py
+python main.py# practicoKodland
