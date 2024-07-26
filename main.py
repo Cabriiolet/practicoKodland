@@ -32,7 +32,7 @@ def draw_player(x, y):
 
 # Clase para los asteroides
 class Asteroid:
-    def _init_(self):
+    def __init__(self):
         self.x = random.randint(0, SCREEN_WIDTH - asteroid_image.get_width())
         self.y = random.randint(-100, -40)
         self.speed = random.randint(4, 8)
